@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 Project Name
 Brief tagline or description of the project.
 
